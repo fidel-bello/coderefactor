@@ -3,7 +3,7 @@
 1. general information I
 2. how to install
 3. general information II
-4. genral information III
+4. general information III
 5. shout out
 # general information
 *We were given a css and html file to refactor. The point of the project was to make the code more accessible and easier to read. using more semantic elements and also consolidating css and shrinking the lines from 200. i was able to consolidate and shrink it to 132 lines.
@@ -20,7 +20,7 @@
 *consolidated duplicated elements in lines 107-115
 *consolidated duplicated elements in lines 119-124
 *deleted footer h2 and put font size in the .footer
-# generel information html
+# general information html
 *put in a header tag and also nav tag in lines 11-27
 *changed a <div> tag to a <section> in lines 31
 *added an id to the <div> so the specified link could properly work in lines 36
